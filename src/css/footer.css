@@ -4,42 +4,54 @@ footer {
   width: 1349px;
   margin: 0px auto;
   padding-top: 20px; }
-  footer .footerWrap {
-    width: 1000px;
-    height: 270px;
-    margin: 0px auto; }
-    footer .footerWrap .top {
-      width: 1000px;
-      height: 120px; }
-      footer .footerWrap .top div {
-        width: 200px;
-        height: 120px;
-        float: left; }
-        footer .footerWrap .top div p {
-          width: 40px;
-          height: 40px;
-          border-radius: 50%;
-          float: left; }
-        footer .footerWrap .top div dl {
-          float: left;
-          width: 160px;
-          height: 105px;
-          padding-top: 15px; }
-          footer .footerWrap .top div dl dt {
-            font-size: 20px; }
-          footer .footerWrap .top div dl dd {
-            line-height: 30px; }
-            footer .footerWrap .top div dl dd a {
-              color: black; }
-    footer .footerWrap .bottom {
-      margin-top: 30px; }
-      footer .footerWrap .bottom p {
-        text-align: center;
-        line-height: 24px;
-        font-size: 14px; }
-        footer .footerWrap .bottom p a {
-          margin-left: 10px;
-          color: gray;
-          font-size: 14px; }
-        footer .footerWrap .bottom p span {
-          margin-left: 20px; }
+
+footer .footerWrap {
+  width: 1000px;
+  height: 270px;
+  margin: 0px auto; }
+
+footer .footerWrap .top {
+  width: 1000px;
+  height: 120px; }
+
+footer .footerWrap .top div {
+  width: 200px;
+  height: 120px;
+  float: left; }
+
+footer .footerWrap .top div p {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  float: left; }
+
+footer .footerWrap .top div dl {
+  float: left;
+  width: 160px;
+  height: 105px;
+  padding-top: 15px; }
+
+footer .footerWrap .top div dl dt {
+  font-size: 20px; }
+
+footer .footerWrap .top div dl dd {
+  line-height: 30px; }
+
+footer .footerWrap .top div dl dd a {
+  color: black; }
+
+footer .footerWrap .bottom {
+  margin-top: 30px; }
+
+footer .footerWrap .bottom p {
+  text-align: center;
+  line-height: 24px;
+  font-size: 14px; }
+
+footer .footerWrap .bottom p a {
+  margin-left: 10px;
+  color: gray;
+  font-size: 14px; }
+
+footer .footerWrap .bottom p span {
+  margin-left: 20px; }

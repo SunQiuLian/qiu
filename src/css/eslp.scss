@@ -37,12 +37,10 @@ body {
   background: #f8f8f8;
   font-size: 12px;
   line-height: 34px; }
-
-#hnav span {
-  float: right; }
-
-#hnav a {
-  margin: 8px; }
+  #hnav span {
+    float: right; }
+  #hnav a {
+    margin: 8px; }
 
 #headerp {
   width: 100%;
@@ -55,39 +53,32 @@ body {
   width: 1200px;
   height: 70px;
   background: white; }
-
-#headerpm a {
-  margin-right: 40px;
-  text-decoration: none; }
-
-#headerpm a:hover {
-  color: green; }
-
-#headerpm input {
-  height: 36px;
-  width: 232px; }
-
-#headerpm button {
-  border: none;
-  height: 40px;
-  width: 40px;
-  vertical-align: middle; }
-
-#headerpm p {
-  line-height: 68px; }
-
-#headerpm span {
-  position: absolute;
-  right: 44px;
-  top: 26px; }
-
-#headerpm span a {
-  margin: 0;
-  width: 58px;
-  height: 18px;
-  background: #e8e8e8;
-  display: inline-block;
-  font-size: 12px; }
+  #headerpm a {
+    margin-right: 40px;
+    text-decoration: none; }
+  #headerpm a:hover {
+    color: green; }
+  #headerpm input {
+    height: 36px;
+    width: 232px; }
+  #headerpm button {
+    border: none;
+    height: 40px;
+    width: 40px;
+    vertical-align: middle; }
+  #headerpm p {
+    line-height: 68px; }
+  #headerpm span {
+    position: absolute;
+    right: 44px;
+    top: 26px; }
+    #headerpm span a {
+      margin: 0;
+      width: 58px;
+      height: 18px;
+      background: #e8e8e8;
+      display: inline-block;
+      font-size: 12px; }
 
 #wrap {
   position: relative;
@@ -96,10 +87,9 @@ body {
   background: #eee;
   padding: 5px 0px;
   box-sizing: border-box; }
-
-#wrap img {
-  width: 100%;
-  height: 240px; }
+  #wrap img {
+    width: 100%;
+    height: 240px; }
 
 #wram {
   width: 1200px;
@@ -120,14 +110,12 @@ body {
   background: white;
   background: rgba(0, 0, 0, 0.5);
   z-index: 9; }
-
-#wrl a {
-  color: white;
-  font-size: 12px;
-  margin: 5px; }
-
-#wrl h3 {
-  margin-top: 4px; }
+  #wrl a {
+    color: white;
+    font-size: 12px;
+    margin: 5px; }
+  #wrl h3 {
+    margin-top: 4px; }
 
 #wrlm {
   height: 220px !important;
@@ -196,16 +184,14 @@ body {
   background: white;
   border-right: 1px solid #CCC;
   box-sizing: border-box; }
-
-#zjm img {
-  position: absolute;
-  left: 20px;
-  top: 35px;
-  height: 80px;
-  vertical-align: middle; }
-
-#zjm span {
-  font-size: 24px; }
+  #zjm img {
+    position: absolute;
+    left: 20px;
+    top: 35px;
+    height: 80px;
+    vertical-align: middle; }
+  #zjm span {
+    font-size: 24px; }
 
 #zjm:hover {
   z-index: 20;
@@ -223,12 +209,10 @@ body {
   width: 1200px;
   line-height: 54px;
   font-size: 19px; }
-
-#mn span {
-  margin-left: 20px; }
-
-#mn a {
-  margin-left: 20px; }
+  #mn span {
+    margin-left: 20px; }
+  #mn a {
+    margin-left: 20px; }
 
 #mm {
   margin: 0 auto;
@@ -262,17 +246,14 @@ body {
   text-align: center;
   line-height: 30px;
   position: relative; }
-
-.mmp span {
-  font-size: 29px;
-  margin-right: 40px; }
-
-.mmp img {
-  height: 106px;
-  margin-top: 44px; }
-
-.mmp h5 {
-  color: black; }
+  .mmp span {
+    font-size: 29px;
+    margin-right: 40px; }
+  .mmp img {
+    height: 106px;
+    margin-top: 44px; }
+  .mmp h5 {
+    color: black; }
 
 #xiao {
   position: absolute;
@@ -285,10 +266,9 @@ body {
   width: 42px;
   height: 16px;
   position: relative; }
-
-#san p {
-  position: absolute;
-  top: 2px; }
+  #san p {
+    position: absolute;
+    top: 2px; }
 
 #box {
   width: 0;
@@ -314,21 +294,17 @@ body {
   height: 66px;
   background: #eee;
   text-align: center; }
-
-#page span {
-  display: inline-block;
-  height: 36px;
-  padding: 8px 14px;
-  box-sizing: border-box;
-  border: 1px solid #Ccc; }
-
-#page span:hover {
-  background: lightgreen;
-  color: white; }
+  #page span {
+    display: inline-block;
+    height: 36px;
+    padding: 8px 14px;
+    box-sizing: border-box;
+    border: 1px solid #Ccc; }
+  #page span:hover {
+    background: lightgreen; color: white;}
 
 .gree {
-  background: lightgreen;
-  color: white; }
+  background: lightgreen; color: white;}
 
 #hot {
   margin: 0 auto;
@@ -351,11 +327,10 @@ body {
   width: 1200px;
   height: 400px;
   background: white; }
-
-#brand img {
-  height: 200px;
-  width: 300px;
-  float: left; }
+  #brand img {
+    height: 200px;
+    width: 300px;
+    float: left; }
 
 #cen {
   position: absolute;
@@ -388,10 +363,9 @@ body {
   background: white;
   text-align: center;
   font-size: 12px; }
-
-.sh2 img {
-  margin-top: 30px;
-  margin-bottom: 10px; }
+  .sh2 img {
+    margin-top: 30px;
+    margin-bottom: 10px; }
 
 .sh3 {
   float: left;
@@ -408,10 +382,9 @@ body {
   padding: 28px 22px;
   box-sizing: border-box;
   font-size: 12px; }
-
-.sh11 img {
-  float: left;
-  margin-right: 20px; }
+  .sh11 img {
+    float: left;
+    margin-right: 20px; }
 
 #bor {
   border-bottom: 1px dashed #ccc;
@@ -421,17 +394,14 @@ body {
 .sh3t {
   font-size: 14px;
   line-height: 28px; }
-
-.sh3t img {
-  float: left;
-  margin-right: 20px; }
-
-.sh3t h2 {
-  color: green; }
-
-.sh3t h3 {
-  margin-top: 25px;
-  color: green; }
+  .sh3t img {
+    float: left;
+    margin-right: 20px; }
+  .sh3t h2 {
+    color: green; }
+  .sh3t h3 {
+    margin-top: 25px;
+    color: green; }
 
 #bord {
   font-size: 12px;
@@ -443,20 +413,17 @@ body {
   border-top: 1px dashed #ccc;
   box-sizing: border-box;
   line-height: 40px; }
-
-#bord img {
-  vertical-align: middle; }
-
-#bord span {
-  font-size: 16px;
-  margin-left: 10px;
-  margin-right: 26px; }
+  #bord img {
+    vertical-align: middle; }
+  #bord span {
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 26px; }
 
 .shos {
   line-height: 50px; }
-
-.shos img {
-  vertical-align: middle; }
+  .shos img {
+    vertical-align: middle; }
 
 #shost {
   text-align: center;
@@ -473,9 +440,8 @@ body {
   width: 1200px;
   height: 180px;
   background: white; }
-
-#pare img {
-  float: left; }
+  #pare img {
+    float: left; }
 
 #foot {
   margin-top: 16px;
@@ -496,20 +462,18 @@ body {
   width: 900px;
   height: 102px;
   background: white; }
-
-#fol span {
-  float: left;
-  width: 225px;
-  height: 102px;
-  background: white;
-  line-height: 20px;
-  font-size: 12px;
-  text-align: center;
-  display: inline-block; }
-
-#fol span h3 {
-  font-weight: inherit;
-  font-size: 16px; }
+  #fol span {
+    float: left;
+    width: 225px;
+    height: 102px;
+    background: white;
+    line-height: 20px;
+    font-size: 12px;
+    text-align: center;
+    display: inline-block; }
+    #fol span h3 {
+      font-weight: inherit;
+      font-size: 16px; }
 
 #fort {
   line-height: 30px;
@@ -522,24 +486,22 @@ body {
   box-sizing: border-box;
   font-size: 12px;
   color: #666; }
-
-#fort h2 {
-  color: #44aa77;
-  font-weight: inherit;
-  font-size: 20px; }
-
-#fort a {
-  text-decoration: none;
-  display: block;
-  border-radius: 5px;
-  text-align: center;
-  line-height: 36px;
-  font-size: 16px;
-  color: white;
-  margin-left: 70px;
-  width: 162px;
-  height: 36px;
-  background: #44aa77; }
+  #fort h2 {
+    color: #44aa77;
+    font-weight: inherit;
+    font-size: 20px; }
+  #fort a {
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 36px;
+    font-size: 16px;
+    color: white;
+    margin-left: 70px;
+    width: 162px;
+    height: 36px;
+    background: #44aa77; }
 
 #footer {
   width: 100%;

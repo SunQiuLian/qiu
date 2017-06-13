@@ -14,22 +14,27 @@ header {
   height: 27px;
   padding-top: 6px;
   background: #f7f7f7; }
-  header a {
-    color: black;
-    font-size: 12px; }
-  header .ul1 {
-    margin-left: 80px;
-    width: 250px;
-    float: left; }
-    header .ul1 li {
-      font-size: 14px;
-      float: left;
-      line-height: 18px; }
-  header .ul2 {
-    float: right;
-    margin-right: 80px; }
-    header .ul2 li {
-      float: left;
-      padding: 0px 10px;
-      font-size: 14px;
-      border-right: 1px solid gray; }
+
+header a {
+  color: black;
+  font-size: 12px; }
+
+header .ul1 {
+  margin-left: 80px;
+  width: 250px;
+  float: left; }
+
+header .ul1 li {
+  font-size: 14px;
+  float: left;
+  line-height: 18px; }
+
+header .ul2 {
+  float: right;
+  margin-right: 80px; }
+
+header .ul2 li {
+  float: left;
+  padding: 0px 10px;
+  font-size: 14px;
+  border-right: 1px solid gray; }
