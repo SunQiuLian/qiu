@@ -295,15 +295,16 @@ a:hover {
 .yin .shuju div {
   float: left; }
   .yin .shuju div .jin {
-    width: 100px;
-    height: 30px;
+    width: 120px;
+    /*height: 30px;*/
     color: #118855;
     background: white;
     float: right;
-    margin-top: -45px;
+    margin-top: -80px;
     padding: 10px;
     border: 1px solid #118855;
-    line-height: 30px;
+    line-height: 25px;
+    margin-left: 100px;
     text-align: center;
     display: none; }
     .yin .shuju div .jin a {
@@ -323,12 +324,11 @@ a:hover {
     height: 72px; }
 
 .yin .shuju .renqi {
-  width: 400px; }
+  width: 400px;
+  float: right; }
   .yin .shuju .renqi p {
     width: 200px;
     float: left; }
-    .yin .shuju .renqi p a {
-      float: right; }
 
 .yin .shuju .jieshao {
   width: 400px; }
