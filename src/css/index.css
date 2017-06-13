@@ -327,6 +327,8 @@ a:hover {
   .yin .shuju .renqi p {
     width: 200px;
     float: left; }
+    .yin .shuju .renqi p a {
+      float: right; }
 
 .yin .shuju .jieshao {
   width: 400px; }
