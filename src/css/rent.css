@@ -1,0 +1,93 @@
+* {
+  padding: 0px;
+  margin: 0px; }
+
+a {
+  text-decoration: none; }
+
+ul {
+  list-style: none; }
+
+header .ul1 {
+  width: 300px; }
+  header .ul1 li {
+    border-right: 1px solid #ccc;
+    padding: 0px 10px; }
+    header .ul1 li a {
+      color: gray; }
+
+header .ul2 {
+  margin-right: 60px; }
+
+#banner {
+  width: 1349px;
+  margin: 0px auto;
+  height: 440px;
+  position: relative;
+  background: url(../images/t01a581f5103d99dd1f.png) no-repeat center top/1940px 440px; }
+  #banner a {
+    display: block;
+    width: 140px;
+    height: 40px;
+    position: absolute; }
+  #banner .a1 {
+    left: 190px;
+    bottom: 100px; }
+  #banner .a2 {
+    right: 230px;
+    top: 200px; }
+  #banner .a3 {
+    bottom: 50px;
+    right: 230px; }
+
+#process {
+  width: 1349px;
+  margin: 0px auto;
+  height: 300px; }
+  #process .top {
+    width: 1349px;
+    height: 150px;
+    background: url(../images/t01689f34cf3fc55642.png) no-repeat center top/1900px 150px; }
+  #process .bot {
+    width: 1349px;
+    height: 150px;
+    background: url(../images/t0134e931213092d978.jpg) no-repeat center top/1800px 150px; }
+
+article {
+  width: 1349px;
+  margin: 0px auto;
+  height: 1130px; }
+  article section {
+    width: 880px;
+    height: 1130px;
+    margin: 0px auto; }
+    article section p {
+      line-height: 30px;
+      margin-top: 10px;
+      padding-left: 45px;
+      font-size: 18px; }
+    article section .p1 {
+      background: url(../images/t01995f61cc3127a378.png) no-repeat left top/30px 30px;
+      color: black; }
+    article section .p2 {
+      background: url(../images/t01837f6956b0ed5883.png) no-repeat left top/30px 30px;
+      color: #ccc; }
+
+footer .top {
+  margin-left: -90px; }
+  footer .top dl dd a {
+    font-size: 12px; }
+  footer .top .box {
+    width: 180px;
+    height: 120px;
+    float: left;
+    font-size: 12px;
+    color: #ccc; }
+    footer .top .box dt {
+      margin-top: 10px;
+      text-align: center; }
+    footer .top .box dd {
+      text-align: center;
+      line-height: 20px; }
+      footer .top .box dd a {
+        color: #ccc; }
